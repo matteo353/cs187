@@ -1,0 +1,12 @@
+---
+:id: 28831463
+:submitters:
+- :name: Matteo Mastandrea
+  :email: mmastandrea@umass.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-02-07 16:30:58.678317000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-02-07 08:30:58.678317000 Z
+:status: processed
+:score: 78.0
